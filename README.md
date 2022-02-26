@@ -105,7 +105,7 @@ and mod (`%` operator) by 27 rather than 26 now, then use our int to character m
 Here's a 4x4 grayscale image with a message of length 3 embedded in it, exactly as we just discussed.  See if you can
 figure out what the message is!
 
-[grayscale_hidden_message.png](https://user-images.githubusercontent.com/37650759/155843190-484ef444-a3a2-4078-8c03-09b57783be6e.png)
+[grayscale_hidden_message.png](https://github.com/Apollys/ImageSecretMessages/blob/main/grayscale_hidden_message.png?raw=true)
 
 Some general numpy tips:
  - Print `image_array.shape` (note no parentheses `()` after shape) rather than the whole array;
@@ -176,7 +176,7 @@ what if we wanted to hide three different messages in our image?  We could embed
 
 In fact, rumor has it that's exactly what's been done to the following image:
 
-![snowflake_hidden_message](https://user-images.githubusercontent.com/37650759/155842867-4fee01f0-88ef-4d58-a260-eaf07e0711c3.png)
+![snowflake_hidden_message](https://github.com/Apollys/ImageSecretMessages/blob/main/snowflake_hidden_message.png?raw=true)
 
 They say the length of the message hidden in the red color channel is the sixth prime number. And as for the 
 green and blue, surely they have messages too, length unknown...
