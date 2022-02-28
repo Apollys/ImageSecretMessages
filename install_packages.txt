@@ -1,4 +1,2 @@
 python3 -m pip install numpy
-brew install Pillow -- didnt work on its own.. 
-pip3 install Pillow -- also didn't work
-python3 -m pip install --upgrade Pillow # worked after running this
+python3 -m pip install --upgrade Pillow # run after installing
