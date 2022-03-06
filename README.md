@@ -1,5 +1,9 @@
 # Embedding Secret Messages in Images
 
+(For **Encoding Secret Messages**, click [here](https://github.com/Apollys/ImageSecretMessages/blob/main/Part2.md).)
+
+---
+
 Images may look like assemblies of colors and shapes to our brains, but to a computer they are a collection
 of numbers.  And that means if we were to interpret the numbers in a certain way, we might be able to 
 discover secret messages that others have left in those images for us...
