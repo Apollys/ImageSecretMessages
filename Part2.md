@@ -1,8 +1,10 @@
 ## Encoding Your Own Messages
 
-### Hello again ;)
+![hello_beautiful_world_scenery](https://user-images.githubusercontent.com/37650759/159192480-b089ad16-034d-4b21-b12d-32e02dd271fc.png)
 
-Welcome to Part Two, in which you will encode your own secret messages in an image of your choice!
+### Welcome to Part Two
+
+It's time to encode your own secret messages in an image of your choice!
 
 ---
 
@@ -31,7 +33,7 @@ Think about this for a minute and see if you have an idea.
 ---
 
 <details>
-  <summary>Initial Solution</summary>
+  <summary>Initial Solution</summary><br/>
   
   You might have thought of something more interesting, but here's the most basic, unimaginative solution:
   Select the first `message_length` pixels of the image to act as the representatives for each group.  Modify
@@ -52,7 +54,7 @@ sum was higher than the actual sum?  How would you refine your approach (maybe y
 this situation?
 
 <details>
-  <summary>Refined Solution</summary>
+  <summary>Refined Solution</summary><br/>
   
   There are two very natural approaches here:
   
@@ -119,6 +121,8 @@ once we move on to full size color images.
 ---
 
 ### Full Size Image & Messages, Yay!
+
+![aurora_banner](https://user-images.githubusercontent.com/37650759/159192876-b5cee5b6-17c8-4741-94a3-1a572567d614.png)
 
 This next part should be the most fun: Go pick an image that you want to embed your message into!
 
