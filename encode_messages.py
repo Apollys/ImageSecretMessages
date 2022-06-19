@@ -16,7 +16,7 @@ CHAR_ARRAY_COLOR = ' abcdefghijklmnopqrstuvwxyz!@#$%^&*()-=<>?[]' # 44
 COLOR_CHANNEL_DICT = {
     'RED': {
         'length': 9,
-        'phrase': 'hipp=lx>^', # '   <o)   '
+        'phrase': 'hipp=lx>^',
         'unprocessed_phrase': 'iipp=lx>^' # hroiirixc
     }
     # 'GREEN': {
